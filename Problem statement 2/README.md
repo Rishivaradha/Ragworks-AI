@@ -35,7 +35,6 @@ To set up the project locally:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Rishivaradha/Ragworks-AI.git
-cd Problem statement 2
 
 # 2. Install dependencies
 npm install
@@ -47,6 +46,7 @@ pnpm install
 bun install
 
 # 3. Run the development server
+Open your terminal or command prompt by going into the Problem statement 2 folder and then do the below steps: 
 npm run dev
 # or
 yarn dev
