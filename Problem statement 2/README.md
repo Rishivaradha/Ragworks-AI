@@ -30,14 +30,14 @@ This repository is suitable for:
 - [Chart.js](https://www.chartjs.org/) + [react-chartjs-2](https://react-chartjs-2.js.org/) — Data visualization
 
 <p align="center">
-  <img src="public/img1.png" width="80" height="80" />
-  <img src="public/img2.png" width="80" height="80" />
-  <img src="public/img3.png" width="80" height="80" />
-  <img src="public/img4.png" width="80" height="80" />
-  <img src="public/img5.png" width="80" height="80" />
-  <img src="public/img6.png" width="80" height="80" />
-  <img src="public/img7.png" width="80" height="80" />
-  <img src="public/img8.png" width="80" height="80" />
+  <img src="public/1st.png" width="80" height="80" />
+  <img src="public/2nd.png" width="80" height="80" />
+  <img src="public/3rd.png" width="80" height="80" />
+  <img src="public/4th.png" width="80" height="80" />
+  <img src="public/5th.png" width="80" height="80" />
+  <img src="public/6th.png" width="80" height="80" />
+  <img src="public/7th.png" width="80" height="80" />
+  <img src="public/8th.png" width="80" height="80" />
 </p>
 
 
