@@ -71,4 +71,4 @@ pnpm dev
 bun dev
 
 # 4. Open in browser
-# Visit http://localhost:3000
+ Visit http://localhost:3000
