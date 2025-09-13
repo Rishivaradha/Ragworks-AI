@@ -29,6 +29,8 @@ This repository is suitable for:
 - [Tailwind CSS](https://tailwindcss.com/) — Utility-first styling  
 - [Chart.js](https://www.chartjs.org/) + [react-chartjs-2](https://react-chartjs-2.js.org/) — Data visualization
 
+## 📸 Images 
+
 <p align="center">
   <img src="public/1st.png" width="500" height="500" />
   <img src="public/2nd.png" width="500" height="500" />
