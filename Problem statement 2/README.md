@@ -46,7 +46,8 @@ pnpm install
 bun install
 
 # 3. Run the development server
-Open your terminal or command prompt by going into the Problem statement 2 folder and then do the below steps: 
+Open your terminal or command prompt by going into the Problem statement 2 folder and then do the below steps:
+
 npm run dev
 # or
 yarn dev
