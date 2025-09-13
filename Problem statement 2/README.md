@@ -1,93 +1,59 @@
-Ragworks.AI — Next.js E‑commerce Dashboard
+# Ragworks.AI — Next.js E-commerce Dashboard
 
-Overview
+## 📌 Project Description
+Ragworks.AI is a **feature-rich e-commerce dashboard** built using **Next.js, TypeScript, Tailwind CSS, and Chart.js**. This project demonstrates how to design and implement a modern, responsive, and interactive dashboard for managing products, orders, analytics, and customer interactions.  
 
-This project is an advanced e‑commerce dashboard built with Next.js, TypeScript, Tailwind CSS, and Chart.js. It demonstrates a full-featured UI with product catalog, cart, checkout flow, analytics, order tracking, and responsive design.
+The project includes:
+- A **product catalog** with search and filtering  
+- A **shopping cart** and simulated checkout flow  
+- **Order history** with tracking statuses  
+- **Analytics dashboards** powered by Chart.js  
+- A responsive **image grid** displaying 8 images in parallel  
 
-Features
-	•	Product catalog with search and category filtering
-	•	Shopping cart with add/remove functionality
-	•	Checkout flow simulation
-	•	Order history with tracking statuses
-	•	Analytics (sales trend & category distribution) using Chart.js
-	•	Responsive design for desktop, tablet, and mobile
-	•	Image grid showing 8 images in parallel (side-by-side)
+This repository is suitable for:  
+- Learning **advanced Next.js** development  
+- Building a **portfolio project**  
+- Using as a **starter template** for real-world e-commerce dashboards  
 
-Tech Stack
-	•	Next.js (App Router)
-	•	TypeScript
-	•	Tailwind CSS
-	•	Chart.js with react-chartjs-2
+## 🚀 Features
+- 🔎 **Search & Filter**: Quickly find products by name or category  
+- 🛒 **Shopping Cart**: Add, remove, and view cart totals  
+- 📦 **Order Management**: View order history with statuses like *Shipped* and *Delivered*  
+- 📊 **Analytics & Charts**: Interactive line and doughnut charts for sales and category distribution  
+- 📱 **Responsive UI**: Optimized for desktop, tablet, and mobile  
+- 🖼️ **Image Grid**: 8 images displayed side by side with fixed size (80×80px)  
 
-Getting Started
-	1.	Clone the repository and install dependencies:
+## 🛠️ Tech Stack
+- [Next.js](https://nextjs.org) — React framework for production apps  
+- [TypeScript](https://www.typescriptlang.org/) — Type-safe development  
+- [Tailwind CSS](https://tailwindcss.com/) — Utility-first styling  
+- [Chart.js](https://www.chartjs.org/) + [react-chartjs-2](https://react-chartjs-2.js.org/) — Data visualization  
 
+## ⚙️ Getting Started
+To set up the project locally:  
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/ragworks-dashboard.git
+cd ragworks-dashboard
+
+# 2. Install dependencies
 npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
 
-
-	2.	Run the development server:
-
+# 3. Run the development server
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 
-
-	3.	Open http://localhost:3000 in your browser.
-	4.	Navigate to /dashboard (or the page where you integrate the dashboard).
-
-Folder Structure
-
-/app
-  /dashboard
-    page.tsx       # Main dashboard page
-/public
-  /images          # Place 8 images here (img1.jpg ... img8.jpg)
-
-Image Grid
-
-The dashboard displays 8 images in parallel. Add your images under public/images/ and update names accordingly.
-
-Example markdown image insertion:
-
-<p>
-  <img src="/images/img1.jpg" width="80" height="80" />
-  <img src="/images/img2.jpg" width="80" height="80" />
-  <img src="/images/img3.jpg" width="80" height="80" />
-  <img src="/images/img4.jpg" width="80" height="80" />
-  <img src="/images/img5.jpg" width="80" height="80" />
-  <img src="/images/img6.jpg" width="80" height="80" />
-  <img src="/images/img7.jpg" width="80" height="80" />
-  <img src="/images/img8.jpg" width="80" height="80" />
-</p>
-
-
-Documentation
-
-Components
-	•	ProductCard: Displays individual product details
-	•	Cart: Shows items in the cart and checkout button
-	•	Analytics: Line chart and doughnut chart with mock data
-	•	OrderHistory: List of past orders with status labels
-	•	ImageGrid: Renders 8 static images in a responsive grid
-
-State Management
-	•	Uses React useState for local state.
-	•	Replace with Redux/Zustand/Context for production scale.
-
-Deployment
-
-Deploy easily on Vercel (official Next.js platform):
-	1.	Push your repo to GitHub.
-	2.	Import into Vercel.
-	3.	Configure environment (if needed).
-	4.	Get a live deployed dashboard in minutes.
-
-Evaluation Criteria (if assignment)
-	•	Application architecture & state management
-	•	User experience & interface design
-	•	Performance optimization (loading states, lazy loading)
-	•	Data visualization & interactivity
-	•	Mobile responsiveness & touch support
-	•	Error handling & user feedback
-
-⸻
-
-Built with ❤️ using Next.js, Tailwind CSS, and Chart.js
+# 4. Open in browser
+# Visit http://localhost:3000
