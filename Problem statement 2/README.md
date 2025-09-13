@@ -35,7 +35,7 @@ To set up the project locally:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Rishivaradha/Ragworks-AI.git
-cd ragworks-dashboard
+cd Problem statement 2
 
 # 2. Install dependencies
 npm install
