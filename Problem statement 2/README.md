@@ -30,8 +30,8 @@ This repository is suitable for:
 - [Chart.js](https://www.chartjs.org/) + [react-chartjs-2](https://react-chartjs-2.js.org/) — Data visualization
 
 <p align="center">
-  <img src="public/1st.png" width="600" height="600" />
-  <img src="public/2nd.png" width="80" height="80" />
+  <img src="public/1st.png" width="500" height="500" />
+  <img src="public/2nd.png" width="500" height="500" />
   <img src="public/3rd.png" width="80" height="80" />
   <img src="public/4th.png" width="80" height="80" />
   <img src="public/5th.png" width="80" height="80" />
