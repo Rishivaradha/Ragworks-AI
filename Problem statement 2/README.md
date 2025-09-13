@@ -47,7 +47,7 @@ This repository is suitable for:
 To set up the project locally:  
 
 ```bash
-## 1. Clone the repository
+# 1. Clone the repository
 git clone https://github.com/Rishivaradha/Ragworks-AI.git
 
 # 2. Install dependencies
