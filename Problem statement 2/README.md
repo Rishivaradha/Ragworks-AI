@@ -27,7 +27,19 @@ This repository is suitable for:
 - [Next.js](https://nextjs.org) — React framework for production apps  
 - [TypeScript](https://www.typescriptlang.org/) — Type-safe development  
 - [Tailwind CSS](https://tailwindcss.com/) — Utility-first styling  
-- [Chart.js](https://www.chartjs.org/) + [react-chartjs-2](https://react-chartjs-2.js.org/) — Data visualization  
+- [Chart.js](https://www.chartjs.org/) + [react-chartjs-2](https://react-chartjs-2.js.org/) — Data visualization
+
+<p align="center">
+  <img src="public/img1.png" width="80" height="80" />
+  <img src="public/img2.png" width="80" height="80" />
+  <img src="public/img3.png" width="80" height="80" />
+  <img src="public/img4.png" width="80" height="80" />
+  <img src="public/img5.png" width="80" height="80" />
+  <img src="public/img6.png" width="80" height="80" />
+  <img src="public/img7.png" width="80" height="80" />
+  <img src="public/img8.png" width="80" height="80" />
+</p>
+
 
 ## ⚙️ Getting Started
 To set up the project locally:  
