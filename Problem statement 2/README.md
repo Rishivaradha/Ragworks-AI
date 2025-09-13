@@ -34,7 +34,7 @@ To set up the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ragworks-dashboard.git
+git clone https://github.com/Rishivaradha/Ragworks-AI.git
 cd ragworks-dashboard
 
 # 2. Install dependencies
